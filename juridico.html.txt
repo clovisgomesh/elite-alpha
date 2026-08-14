@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jurídico — Elite Alpha</title>
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+
+    <header>
+        <h1>PROTEÇÃO ESTRATÉGICA</h1>
+        <nav>
+            <a href="index.html">Início</a>
+            <a href="sobre.html">Sobre</a>
+            <a href="juridico.html">Jurídico</a>
+            <a href="cursos.html">Cursos</a>
+            <a href="contato.html">Contato</a>
+        </nav>
+    </header>
+
+    <div class="container">
+        <div class="card">
+            <img src="assets/juridico.jpg" class="img-destaque" onerror="this.style.display='none'">
+            <h2>Áreas de Orientação</h2>
+            <p>Divórcio, Alienação Parental, Falsas Acusações e Gestão de Riscos.</p>
+            <a href="https://wa.me/5531992068281" class="btn" target="_blank">FALAR COM SUPORTE</a>
+        </div>
+    </div>
+
+    <script src="assets/js/main.js"></script>
+</body>
+</html>
